@@ -28,6 +28,8 @@ con el nombre de TE_blog con sus respectivas tablas y datos.
 ----
 ##capturas
 
-![primera imagen] (capturas/01.png)
+![05](https://user-images.githubusercontent.com/56971398/82599987-2c048d80-9b7b-11ea-99c1-3f52e8f44182.png)
+
+
 
 
