@@ -27,10 +27,18 @@ con el nombre de TE_blog con sus respectivas tablas y datos.
 
 ----
 ##capturas
+ login
 
 ![05](https://user-images.githubusercontent.com/56971398/82599987-2c048d80-9b7b-11ea-99c1-3f52e8f44182.png)
 
+principal
+
 ![01](https://user-images.githubusercontent.com/56971398/82600250-a208f480-9b7b-11ea-816b-c879bacc8c88.png)
+
+
+agregar/editar post
+
+![03](https://user-images.githubusercontent.com/56971398/82600500-00ce6e00-9b7c-11ea-8d49-23a2bbb8f2b2.png)
 
 
 
