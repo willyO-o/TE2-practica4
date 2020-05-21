@@ -27,9 +27,5 @@ con el nombre de TE_blog con sus respectivas tablas y datos.
 ##capturas
 
 ![primera imagen] (capturas/01.png)
-![primera imagen] (capturas/02.png)
-![primera imagen] (capturas/03.png)
-![primera imagen] (capturas/04.png)
-![Login] (capturas/05.png)
 
 
