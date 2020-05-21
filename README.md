@@ -1,6 +1,6 @@
 # Bienvenido Practica 4 de Tecnologías emergentes 2 en Java Web - Adminstracion de un blog conexion a Mysql con JDBC
 ----
-
+#### Autor: WIlly Chana
 
 ----
 ### Usuario para el login
@@ -25,7 +25,7 @@ Nota: el proyecto se desarrollo con con NetBeans 8.2, Glash Fish 5 y Java 7.
 
 ----
 ## fecha
-* 21-Abril-2020 
+* 21-Abril-2020  
 
 ----
 ## capturas
