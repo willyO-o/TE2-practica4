@@ -1,6 +1,6 @@
-# Bienvenido Practica 4 de Tecnologías emergentes 2 en Java Web
+# Bienvenido Practica 4 de Tecnologías emergentes 2 en Java Web - Adminstracion de un blog conexion a Mysql con JDBC
 ----
-##
+
 
 ----
 ### Usuario para el login
@@ -11,12 +11,14 @@
 
 ----
 
-##Instrucciones
+## Instrucciones
 
 Ejecutar el archivo TE_blog.sql en MYSQL por consola de comando o phpmyadmin
 que se encuentra en la carpeta capturas, 
 la base de datos se creara automáticamente 
 con el nombre de TE_blog con sus respectivas tablas y datos.
+
+Nota: el proyecto se desarrollo con con NetBeans 8.2, Glash Fish 5 y Java 7.
 
 ----
 
@@ -26,7 +28,7 @@ con el nombre de TE_blog con sus respectivas tablas y datos.
 * 21-Abril-2020 
 
 ----
-##capturas
+## capturas
  login
 
 ![05](https://user-images.githubusercontent.com/56971398/82599987-2c048d80-9b7b-11ea-99c1-3f52e8f44182.png)
