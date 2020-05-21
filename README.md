@@ -10,7 +10,9 @@
 ----
 
 ----
+
 ##Instrucciones
+
 Ejecutar el archivo TE_blog.sql en MYSQL por consola de comando o phpmyadmin
 que se encuentra en la carpeta capturas, 
 la base de datos se creara automáticamente 
